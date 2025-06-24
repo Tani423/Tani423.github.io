@@ -56,8 +56,7 @@
   </div>
 </nav>
 </div>
-
-<h1>Inicio</h1>
+    
 <section id="Inicio">
 <h1>Inicio</h1>
 <div class="parent">
