@@ -62,8 +62,8 @@
     <div class="div1"><h3>Tania Vanessa López Barragán
 <h4>Estudiante en ultimo año de preparatoria en la escuela Preparatoria Anexa a la Normal 4 de Nezahualcoyotl y futura estudiante del IPN con enfoque en la carrera de Quimico Bacteriologo Paracitologo, con una gran dedicacion por aprender más sobre esta carrera ya que es un campo al cual le tengo un mejor entendimiento y pasion.</h4>
 <h4>A traves de esta pagina me gustaria presentar algunas de mis habilidades y el desempleño academico que he tenido a lo largo de los años de una manera sintetizada pero llamativa.</h4></h3></div>
-    <div class="div2"><img src="https://pbs.twimg.com/profile_images/1258598956591792128/_uo7uBNk_400x400.jpg"height="200px"widht="200px""alt=Logo EPOAN4"></div>
-    <div class="div3"><img src="https://pbs.twimg.com/profile_images/1807776522125639680/5YWHs8vB_400x400.jpg"height="200px"widht="200px""alt=Logo IPN"></div>
+    <div class="div2"><img src="https://pbs.twimg.com/profile_images/1258598956591792128/_uo7uBNk_400x400.jpg"height="200px"widht="200px"alt="Logo EPOAN4"></div>
+    <div class="div3"><img src="https://pbs.twimg.com/profile_images/1807776522125639680/5YWHs8vB_400x400.jpg"height="200px"widht="200px"alt="Logo IPN"></div>
 </div>
 
 </section>
@@ -79,13 +79,13 @@
 <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="D:\Mi pagina\imagenes\logotipo.jpg""900px" class="d-block w-100" alt="Logotipo">
+      <img src="D:\Mi pagina\imagenes\logotipo.jpg"height="900px" class="d-block w-100" alt="Logotipo">
     </div>
     <div class="carousel-item">
       <img src="D:\Mi pagina\imagenes\pagina 1.png"height="900px" class="d-block w-100" alt="Primera pagina">
     </div>
     <div class="carousel-item">
-      <img src="D:Mi pagina\imagenes\stopmotion.jpg"height="110%"" class="d-block w-100" alt="Stopmotion">
+      <img src="D:Mi pagina\imagenes\stopmotion.jpg"height="110%" class="d-block w-100" alt="Stopmotion">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
