@@ -59,11 +59,11 @@
 <section id="Inicio">
 <h1>Inicio</h1>
 <div class="parent">
-    <div class="div1"><h3>Tania Vanessa López Barragán
+    <div class="div1"><h3>Tania Vanessa López Barragán</h3>
 <h4>Estudiante en ultimo año de preparatoria en la escuela Preparatoria Anexa a la Normal 4 de Nezahualcoyotl y futura estudiante del IPN con enfoque en la carrera de Quimico Bacteriologo Paracitologo, con una gran dedicacion por aprender más sobre esta carrera ya que es un campo al cual le tengo un mejor entendimiento y pasion.</h4>
-<h4>A traves de esta pagina me gustaria presentar algunas de mis habilidades y el desempleño academico que he tenido a lo largo de los años de una manera sintetizada pero llamativa.</h4></h3></div>
-    <div class="div2"><img src="https://pbs.twimg.com/profile_images/1258598956591792128/_uo7uBNk_400x400.jpg"height="200px"widht="200px"alt="Logo EPOAN4"></div>
-    <div class="div3"><img src="https://pbs.twimg.com/profile_images/1807776522125639680/5YWHs8vB_400x400.jpg"height="200px"widht="200px"alt="Logo IPN"></div>
+<h4>A traves de esta pagina me gustaria presentar algunas de mis habilidades y el desempleño academico que he tenido a lo largo de los años de una manera sintetizada pero llamativa.</h4></div>
+    <div class="div2"><img src="https://pbs.twimg.com/profile_images/1258598956591792128/_uo7uBNk_400x400.jpg"height="200px"width="200px"alt="Logo EPOAN4"></div>
+    <div class="div3"><img src="https://pbs.twimg.com/profile_images/1807776522125639680/5YWHs8vB_400x400.jpg"height="200px"width="200px"alt="Logo IPN"></div>
 </div>
 
 </section>
@@ -75,7 +75,7 @@
 </section>
 <section id="Proyectos">
 <h1>Proyectos</h1>
-<h4>DEntro de este apartado solo estare mostrando una parte de algunos proyectos que finalice dentro de la materia de programacion durante este ultimo año (2025) de tal manera que se pueda observar parte de los conocimientos en computacion con los cuales cuento
+<h4>DEntro de este apartado solo estare mostrando una parte de algunos proyectos que finalice dentro de la materia de programacion durante este ultimo año (2025) de tal manera que se pueda observar parte de los conocimientos en computacion con los cuales cuento</h4>
 <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
