@@ -81,10 +81,10 @@
     <div class="carousel-item active">
       <img src="D:\Mi pagina\imagenes\logotipo.jpg"height="900px" class="d-block w-100" alt="Logotipo">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item active">
       <img src="D:\Mi pagina\imagenes\pagina 1.png"height="900px" class="d-block w-100" alt="Primera pagina">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item active">
       <img src="D:Mi pagina\imagenes\stopmotion.jpg"height="110%" class="d-block w-100" alt="Stopmotion">
     </div>
   </div>
