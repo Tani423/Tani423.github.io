@@ -79,13 +79,13 @@
 <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="D:\Mi pagina\imagenes\logotipo.jpg"height="900px" class="d-block w-100" alt="Logotipo">
+      <img src="imagenes\logotipo.jpg"height="900px" class="d-block w-100" alt="Logotipo">
     </div>
-    <div class="carousel-item active">
-      <img src="D:\Mi pagina\imagenes\pagina 1.png"height="900px" class="d-block w-100" alt="Primera pagina">
+    <div class="carousel-item">
+      <img src="imagenes\pagina 1.png"height="900px" class="d-block w-100" alt="Primera pagina">
     </div>
-    <div class="carousel-item active">
-      <img src="D:Mi pagina\imagenes\stopmotion.jpg"height="110%" class="d-block w-100" alt="Stopmotion">
+    <div class="carousel-item">
+      <img src="imagenes\stopmotion.jpg"height="110%" class="d-block w-100" alt="Stopmotion">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
